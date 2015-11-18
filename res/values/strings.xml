@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pull</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnpull">BtnPull</string>
+    <string name="button">button</string>
+    <string name="names">Names</string>
+
+</resources>
